@@ -30,7 +30,7 @@ CompanyName = 'Unknown'
 Copyright = '(c) 2019 Richard Carpenter. All rights reserved.'
 
 # Description of the functionality provided by this module
-Description = 'Module to integarte with Have I Been Pwned website'
+Description = 'Module to interrogate Have I Been Pwned data'
 
 # Minimum version of the Windows PowerShell engine required by this module
 # PowerShellVersion = ''

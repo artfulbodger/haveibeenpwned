@@ -1,5 +1,5 @@
 # haveibeenpwned
-Module to integarte with Have I Been Pwned website
+Module to interrogate Have I Been Pwned data
 
 # Status
 [![Issues Open](https://img.shields.io/github/issues/artfulbodger/haveibeenpwned.svg)](https://github.com/artfulbodger/haveibeenpwned/issues)
