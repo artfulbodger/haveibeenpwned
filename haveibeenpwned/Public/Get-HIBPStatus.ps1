@@ -24,7 +24,7 @@ function Get-HIBPStatus
       To get more details about errors run the CmdLet with the -verbose switch.
 
     .LINK
-      https://artfulbodger.github.io/haveibeenpwned/Get-HIBPStatus
+      https://artfulbodger.github.io/haveibeenpwned/Get-HIBPStatus.html
       https://haveibeenpwned.com/API/Key
   #>
 
