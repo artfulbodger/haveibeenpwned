@@ -25,7 +25,6 @@ function Get-HIBPStatus
 
     .LINK
       https://artfulbodger.github.io/haveibeenpwned/Get-HIBPStatus
-      https://haveibeenpwned.com/API/Key
   #>
 
     [CmdletBinding()]

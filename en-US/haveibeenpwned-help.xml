@@ -121,10 +121,6 @@
         <maml:linkText>https://artfulbodger.github.io/haveibeenpwned/Get-HIBPStatus</maml:linkText>
         <maml:uri>https://artfulbodger.github.io/haveibeenpwned/Get-HIBPStatus</maml:uri>
       </maml:navigationLink>
-      <maml:navigationLink>
-        <maml:linkText>https://haveibeenpwned.com/API/Key</maml:linkText>
-        <maml:uri>https://haveibeenpwned.com/API/Key</maml:uri>
-      </maml:navigationLink>
     </command:relatedLinks>
   </command:command>
 </helpItems>

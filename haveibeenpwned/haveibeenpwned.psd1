@@ -12,7 +12,7 @@
 RootModule = 'haveibeenpwned.psm1'
 
 # Version number of this module.
-ModuleVersion = '0.0.0.2'
+ModuleVersion = '1.0.0.0
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
@@ -24,13 +24,13 @@ GUID = 'a8727e0d-f8a8-48eb-b65b-7e25d30625a3'
 Author = 'Richard Carpenter'
 
 # Company or vendor of this module
-CompanyName = 'Unknown'
+CompanyName = 'CarpoDiem'
 
 # Copyright statement for this module
 Copyright = '(c) 2019 Richard Carpenter. All rights reserved.'
 
 # Description of the functionality provided by this module
-Description = 'Module to integarte with Have I Been Pwned website'
+Description = 'Module to interrogate Have I Been Pwned data'
 
 # Minimum version of the Windows PowerShell engine required by this module
 # PowerShellVersion = ''
