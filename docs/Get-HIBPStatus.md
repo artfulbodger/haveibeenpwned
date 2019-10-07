@@ -1,8 +1,7 @@
 ---
 external help file: haveibeenpwned-help.xml
 Module Name: haveibeenpwned
-online version: https://artfulbodger.github.io/haveibeenpwned/Get-HIBPStatus.html
-https://haveibeenpwned.com/API/Key
+online version: https://artfulbodger.github.io/haveibeenpwned/Get-HIBPStatus
 schema: 2.0.0
 ---
 
@@ -90,7 +89,5 @@ To get more details about errors run the CmdLet with the -verbose switch.
 
 ## RELATED LINKS
 
-[https://artfulbodger.github.io/haveibeenpwned/Get-HIBPStatus.html
-https://haveibeenpwned.com/API/Key](https://artfulbodger.github.io/haveibeenpwned/Get-HIBPStatus.html
-https://haveibeenpwned.com/API/Key)
-
+[https://artfulbodger.github.io/haveibeenpwned/Get-HIBPStatus](https://artfulbodger.github.io/haveibeenpwned/Get-HIBPStatus)
+[https://haveibeenpwned.com/API/Key](https://haveibeenpwned.com/API/Key)
