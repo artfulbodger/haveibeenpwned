@@ -13,7 +13,10 @@ Bug fixes and new features should include tests.
 <!-- Remove items that do not apply. For completed items, change [ ] to [x]. -->
 
 - [ ] PSScriptAnalyzer tests pass
+- [ ] Module imports cleanly
+- [ ] Pester tests pass
 - [ ] documentation is changed or added
+
 
 <!-- _NOTE: these things are not required to open a PR and can be done afterwards / while the PR is open._ -->
 
